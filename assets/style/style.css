@@ -147,6 +147,14 @@ figure figcaption {
     text-align: justify;
 }
 
+/*css de la pagina de equipo*/
+
+
+/*parrafos y encabezados alineados a la derecha*/
+
+#equipo p, #equipo h1, #equipo h2, #equipo h3, #equipo h4, #equipo h5, #equipo h6 {
+    text-align: justify;
+}
 
 /*css for contact page*/
 
