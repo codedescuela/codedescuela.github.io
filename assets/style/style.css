@@ -156,6 +156,15 @@ figure figcaption {
     text-align: justify;
 }
 
+/*css de la pagina de talleres*/
+
+
+/*parrafos y encabezados alineados a la derecha*/
+
+#talleres p, #talleres h1, #talleres h2, #talleres h3, #talleres h4, #talleres h5, #talleres h6 {
+    text-align: justify;
+}
+
 /*css for contact page*/
 
 
