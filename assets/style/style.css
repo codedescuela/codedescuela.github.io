@@ -6,8 +6,13 @@ abril 2017*/
 /*css for paragraphs ("p" elements) and headers ("h" elements)*/
 
 p, h1, h2, h3, h4, h5, h6 {
-    /*set font to Avantgarde*/
-    font-family: Avantgarde;
+
+    @font-face {
+    font-family: myFont;
+    src: url(/fonts/VAG_Rounded_Thin.ttf);
+}
+    /*set font to the font I want (hi coded escuela)*/
+    font-family: VAG_Rounded_Thin;
     /*normal text, no italics, no bold*/
     font-weight: normal;
     /*centered text*/
@@ -61,7 +66,7 @@ a {
     /*reset of format*/
     text-decoration: none;
     /*set font to avantgarde*/
-    font-family: Avantgarde;
+    font-family: VAG_Rounded_Thin;
     /*set color to black*/
     color: black;
 }
@@ -90,7 +95,7 @@ figure {
 /*css for figcaption elements nested under figure elements*/
 
 figure figcaption {
-    font-family: Avantgarde;
+    font-family: VAG_Rounded_Thin;
     font-weight: normal;
     text-align: center;
     font-size: 100%;
