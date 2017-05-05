@@ -9,7 +9,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
     @font-face {
     font-family: myFont;
-    src: url(/fonts/VAG_Rounded_Thin.ttf);
+    src: url(../fonts/VAG_Rounded_Thin.ttf);
 }
     /*set font to the font wanted*/
     font-family: VAG_Rounded_Thin;
