@@ -105,11 +105,11 @@ a:hover {
 
 figure {
     /*display as block element*/
-    display: inline-block;
+    display: block;
     /*no padding(inner space of element)*/
     padding: 50px;
     /*margin (outer space of element)*/
-    margin: 0.2em;
+    margin: auto;
 }
 
 
