@@ -144,7 +144,15 @@ figure figcaption {
     transition: all 0.5s ease;
 }
 
+#myMain p {
+    padding: 10%;
+    color: white;
+    background-color: #ED1568 ;
+    font-size: 150%;
+    text-align:center;
 
+
+}
 /*css for html element with id coverPictureDiv*/
 
 #coverPictureDiv {
