@@ -1,2 +1,3 @@
-# escuelacoded.github.io
-página web de escuela coded
+# codedescuela.github.io
+
+Repositorio de la página web codedescuela.cl
