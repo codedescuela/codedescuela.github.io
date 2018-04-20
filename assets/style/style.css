@@ -246,10 +246,15 @@ footer {
   width:100%;
 }
 
+html, body, div {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
 .recurso {
-  width: 33.33%;
+  width: 30%;
   float: left;
-  padding: 30px;
+  padding: 1.5%;
   display: block;
   color: #000;
   text-decoration: none;
